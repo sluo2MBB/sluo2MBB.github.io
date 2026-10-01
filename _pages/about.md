@@ -7,7 +7,7 @@ nav_order: 1
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: False
 selected_papers: false
 social: false
 announcements:
@@ -16,14 +16,28 @@ latest_posts:
   enabled: false
 ---
 
-I am currently [position] in [department] at [institution]. My research focuses on [research area], and I use [methods] to study [research question].
+I am currently PhD student work as a Research Assistant in MBB Lab at Tulane University. My research focuses on brain image analysis and deep learning.
 
 ## Contact
 
-My office address is [building and room], [department], [institution], [street address], [city, state, postal code]. You can reach me by email at [sluo2@tulane.edu](mailto:sluo2@tulane.edu). For other inquiries, please use [phone number or preferred contact method].
+E-mail: [sluo2@tulane.edu](sluo2@tulane.edu)
+
+## Education
+
+University of Bristol
+
+2021 - 2025 Computer Sciecne
+
+Bachelor & Master
+
+## Experience
+
+Research Assistant
+
+Undergraduate Teaching Assistant
 
 ## Academic Profiles
 
 - [GitHub](https://github.com/sluo2MBB)
-- Google Scholar: [add your Google Scholar profile URL]
-- ORCID: [add your ORCID profile URL]
+- [Google Scholar]() [Coming soon!]
+- [ORCID](https://orcid.org/0009-0001-4171-5497)
