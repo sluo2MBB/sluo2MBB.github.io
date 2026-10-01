@@ -2,12 +2,15 @@
 layout: about
 title: Home
 permalink: /
-nav: true
-nav_order: 1
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
+  more_info: >
+    <p><strong>Office</strong><br>
+    [Building and room]<br>
+    [Department and institution]<br>
+    [City, state, postal code]</p>
 selected_papers: false
 social: false
 announcements:
@@ -16,14 +19,22 @@ latest_posts:
   enabled: false
 ---
 
-I am currently [position] in [department] at [institution]. My research focuses on [research area], and I use [methods] to study [research question].
+I am [position] in [department] at [institution]. My work explores [research area], with a focus on [specific topic or application].
+
+## About
+
+My background in [discipline] shapes how I approach [research question]. I combine [method or tool] with [method or tool] to better understand [problem or challenge].
+
+## Research
+
+My current work examines [current research direction] and its implications for [broader field or application]. You can read more about my interests and publications on the [Research page]({{ '/research/' | relative_url }}).
 
 ## Contact
 
-My office address is [building and room], [department], [institution], [street address], [city, state, postal code]. You can reach me by email at [sluo2@tulane.edu](mailto:sluo2@tulane.edu). For other inquiries, please use [phone number or preferred contact method].
+- **Email:** [sluo2@tulane.edu](mailto:sluo2@tulane.edu)
 
 ## Academic Profiles
 
-- [GitHub](https://github.com/sluo2MBB)
-- Google Scholar: [add your Google Scholar profile URL]
-- ORCID: [add your ORCID profile URL]
+- **GitHub:** [sluo2MBB](https://github.com/sluo2MBB)
+- **Google Scholar:** [Google Scholar]()
+- **ORCID:** [ORCID](https://orcid.org/0009-0001-4171-5497)
