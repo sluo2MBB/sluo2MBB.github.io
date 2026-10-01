@@ -19,15 +19,20 @@ latest_posts:
   enabled: false
 ---
 
-I am [position] in [department] at [institution]. My work explores [research area], with a focus on [specific topic or application].
-
-## About
-
-My background in [discipline] shapes how I approach [research question]. I combine [method or tool] with [method or tool] to better understand [problem or challenge].
+I am a PhD student and research assistant in the MBB Lab at Tulane University. My research focuses on brain image analysis and deep learning.
 
 ## Research
 
-My current work examines [current research direction] and its implications for [broader field or application]. You can read more about my interests and publications on the [Research page]({{ '/research/' | relative_url }}).
+My work explores how deep learning can support brain image analysis. More information about my current research will be added to the [Research page]({{ '/research/' | relative_url }}).
+
+## Education
+
+- **University of Bristol:** Computer Science, bachelor's and master's studies (2021–2025).
+
+## Experience
+
+- Research Assistant, MBB Lab, Tulane University.
+- Undergraduate Teaching Assistant.
 
 ## Contact
 
@@ -36,5 +41,5 @@ My current work examines [current research direction] and its implications for [
 ## Academic Profiles
 
 - **GitHub:** [sluo2MBB](https://github.com/sluo2MBB)
-- **Google Scholar:** [Google Scholar]()
+- **Google Scholar:** Coming soon.
 - **ORCID:** [ORCID](https://orcid.org/0009-0001-4171-5497)
